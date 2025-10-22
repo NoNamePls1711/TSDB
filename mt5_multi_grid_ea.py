@@ -1,3 +1,5 @@
+# นายศรายุทร์ จันทร์แดง 6604101380
+
 import threading
 import time
 import random
